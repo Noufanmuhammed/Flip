@@ -23,13 +23,13 @@ section{
 }
 /*--Insert your own background image below---*/
 .I{
-background-image: https://github.com/Noufanmuhammed/Flip.git(images/P1.png);
+background-image: url(https://github.com/Noufanmuhammed/Flip/blob/main/images/P1.png?raw=true);
 }
 .II{
-	background-image: https://github.com/Noufanmuhammed/Flip.git(images/P1.png);
+	background-image: url(https://github.com/Noufanmuhammed/Flip/blob/main/images/P1.png?raw=true);
 }
 .III{
-	background-image: https://github.com/Noufanmuhammed/Flip.git(images/P1.png);
+	background-image: url(https://github.com/Noufanmuhammed/Flip/blob/main/images/P1.png?raw=true);
 }
 .IV{
 	background-image: url(Images/IceSkater4.JPG);
